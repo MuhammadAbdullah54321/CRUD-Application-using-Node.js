@@ -2,6 +2,7 @@
 I have created this project under assignment task. It's basically a CRUD application in Node.js using express. This program is actually product management system in which Signup and Login system is also available. Roles as Buyer or Seller is assigned to every new person Signing up. Then according to role different views with different options are shown to them and much more, read README file
 
 Greetings everyone!
+
 My Email:: 'abdullahpakistan54321@gmail.com'
 
 This project is very basic implementation of Node.js to make product management system.
